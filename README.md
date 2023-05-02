@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on full-stack projects/challenges
-- 🌱 I’m currently learning Javascript, React, Node, PostgreSQL
+- 🌱 I’m currently learning Typescript, Mongodb, NestJS.
 - 😄 Pronouns: he/him
 
 <div>
